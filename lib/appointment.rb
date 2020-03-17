@@ -1,4 +1,4 @@
-def Appointment
+class Appointment
   attr_accessor :doctor, :patient, :date
 
   @@all = []
